@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ummadi-sreeni
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Cloud Architecture
+- 🌱 I’m currently learning Data Analysis Using Python
 - 💞️ I’m looking to collaborate on Data related projects
 - 📫 How to reach me, you can mail me at sreenucars777@gmail.com
 
